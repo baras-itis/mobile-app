@@ -3,5 +3,9 @@
     "source.fixAll": "explicit",
     "source.organizeImports": "explicit",
     "source.sortMembers": "explicit"
-  }
+  },
+  "editor.fontSize": 13,
+  "editor.fontFamily": "\"Ubuntu Sans Mono Thin\"",
+  "editor.codeLensFontFamily": "\"Ubuntu Sans Mono Thin\"",
+  "editor.inlayHints.fontFamily": "\"Ubuntu Sans Mono Thin\""
 }
